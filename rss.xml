@@ -4,8 +4,15 @@
         <description><![CDATA[Transcendence Records]]></description>
         <link>https://thegrid.ai/transcendence-records/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 15:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 15:22:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/transcendence-records/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/a55f69f12e515680443190d133e8626c382f5c90.jpg" alt="2nd EP of Kramavich released on Transcendence Records. Street date will be 16.06.2016 strictly only available on Bandcamp">]]></description>
+            <link>https://thegrid.ai/transcendence-records/2nd-ep-of-kramavich-released-on-transcendence-records-stree/index.html</link>
+            <guid isPermaLink="false">4ce04f2f-8244-4fe1-a5d0-db4f3ffb1b5c</guid>
+            <pubDate>Wed, 08 Jun 2016 15:21:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ad2f884-430b-4f9e-b359-48047d73c44a.png">]]></description>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/transcendence-records/43fbdd6e-7809-440e-aeb0-e48eba859e62/index.html</link>
             <guid isPermaLink="false">43fbdd6e-7809-440e-aeb0-e48eba859e62</guid>
             <pubDate>Wed, 08 Jun 2016 15:21:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27611a6e-f6e4-47d0-b68d-cbfa46acb501.jpg">]]></description>
-            <link>https://thegrid.ai/transcendence-records/79d5c957-d66e-48e5-b645-b600d5a1e631/index.html</link>
-            <guid isPermaLink="false">79d5c957-d66e-48e5-b645-b600d5a1e631</guid>
-            <pubDate>Wed, 08 Jun 2016 15:21:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
