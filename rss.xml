@@ -4,8 +4,22 @@
         <description><![CDATA[Transcendence Records]]></description>
         <link>https://thegrid.ai/transcendence-records/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 15:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 15:21:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/transcendence-records/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f9eb5cb9-634b-4388-bde8-380134bfbeb7.jpg">]]></description>
+            <link>https://thegrid.ai/transcendence-records/0f03ac33-3dd5-4f3f-b501-f8f334d1d950/index.html</link>
+            <guid isPermaLink="false">0f03ac33-3dd5-4f3f-b501-f8f334d1d950</guid>
+            <pubDate>Wed, 08 Jun 2016 15:21:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d69c0b23-acc9-451b-9a72-9fc23bae9781.jpg">]]></description>
+            <link>https://thegrid.ai/transcendence-records/43fbdd6e-7809-440e-aeb0-e48eba859e62/index.html</link>
+            <guid isPermaLink="false">43fbdd6e-7809-440e-aeb0-e48eba859e62</guid>
+            <pubDate>Wed, 08 Jun 2016 15:21:21 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/27611a6e-f6e4-47d0-b68d-cbfa46acb501.jpg">]]></description>
@@ -61,20 +75,6 @@
             <link>https://thegrid.ai/transcendence-records/761a8bb9-5a1c-43b2-8841-57d8c6ab48cd/index.html</link>
             <guid isPermaLink="false">761a8bb9-5a1c-43b2-8841-57d8c6ab48cd</guid>
             <pubDate>Wed, 08 Jun 2016 15:21:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/448c590a-1bf9-4238-8ad6-adf7621ed9a1.jpg">]]></description>
-            <link>https://thegrid.ai/transcendence-records/399c936b-61c2-4125-8bb9-28112452c460/index.html</link>
-            <guid isPermaLink="false">399c936b-61c2-4125-8bb9-28112452c460</guid>
-            <pubDate>Wed, 08 Jun 2016 15:21:08 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/daac6da1-9c49-4064-a170-40711bca2ab3.jpg">]]></description>
-            <link>https://thegrid.ai/transcendence-records/c01e8ff5-28d0-44a6-b207-f9eeb4967ad4/index.html</link>
-            <guid isPermaLink="false">c01e8ff5-28d0-44a6-b207-f9eeb4967ad4</guid>
-            <pubDate>Wed, 08 Jun 2016 15:21:06 GMT</pubDate>
         </item>
     </channel>
 </rss>
