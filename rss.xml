@@ -4,7 +4,7 @@
         <description><![CDATA[Transcendence Records]]></description>
         <link>https://thegrid.ai/transcendence-records/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 08 Jun 2016 15:22:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Jun 2016 15:23:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/transcendence-records/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -18,6 +18,13 @@
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ad2f884-430b-4f9e-b359-48047d73c44a.png">]]></description>
             <link>https://thegrid.ai/transcendence-records/01366f86-c7d2-49ae-bae9-9e23f5dde536/index.html</link>
             <guid isPermaLink="false">01366f86-c7d2-49ae-bae9-9e23f5dde536</guid>
+            <pubDate>Wed, 08 Jun 2016 15:21:34 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c13d12df-cf4d-4b95-ac37-bb22160e707f.jpg">]]></description>
+            <link>https://thegrid.ai/transcendence-records/1445e049-855c-4b3d-8627-dc9387b28c12/index.html</link>
+            <guid isPermaLink="false">1445e049-855c-4b3d-8627-dc9387b28c12</guid>
             <pubDate>Wed, 08 Jun 2016 15:21:34 GMT</pubDate>
         </item>
         <item>
@@ -68,13 +75,6 @@
             <link>https://thegrid.ai/transcendence-records/0f03ac33-3dd5-4f3f-b501-f8f334d1d950/index.html</link>
             <guid isPermaLink="false">0f03ac33-3dd5-4f3f-b501-f8f334d1d950</guid>
             <pubDate>Wed, 08 Jun 2016 15:21:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d69c0b23-acc9-451b-9a72-9fc23bae9781.jpg">]]></description>
-            <link>https://thegrid.ai/transcendence-records/43fbdd6e-7809-440e-aeb0-e48eba859e62/index.html</link>
-            <guid isPermaLink="false">43fbdd6e-7809-440e-aeb0-e48eba859e62</guid>
-            <pubDate>Wed, 08 Jun 2016 15:21:21 GMT</pubDate>
         </item>
     </channel>
 </rss>
