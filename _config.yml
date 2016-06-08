@@ -1,14 +1,14 @@
-layout_spectrum: 0.37942102178931236
-typography_spectrum: 0.9316769379656762
+layout_spectrum: 0.29835630021989346
+typography_spectrum: 0.34900105744600296
 color:
-  brandStrength: 0.13507816172204912
-  lightness: 0.5828598700463772
-  saturation: 0.9168585003353655
-  rhythmicContrast: 0.05344937019981444
+  brandStrength: 0.4314124819356948
+  lightness: 0.4051557583734393
+  saturation: 0.9978484236635268
+  rhythmicContrast: 0.044985780492424965
   brandColors:
-    - '#FF8000'
-    - '#FFD933'
-    - '#CCCC52'
-    - '#8FB359'
-    - '#192B33'
+    - '#16193B'
+    - '#35478C'
+    - '#4E7AC7'
+    - '#7FB2F0'
+    - '#ADD5F7'
 name: Transcendence Records
