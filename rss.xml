@@ -4,28 +4,28 @@
         <description><![CDATA[Kramavich, Kramanic Frequencies, Electric Ladybug, ]]></description>
         <link>https://thegrid.ai/transcendence-records/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 09 Jun 2016 20:27:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2016 20:27:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/transcendence-records/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[https://transcendencerecords.bandcamp.com/releases]]></title>
-            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d1c8b0a33183e383239a074a17174901de041a3.jpg">]]></description>
-            <link>https://thegrid.ai/transcendence-records/httpstranscendencerecordsbandcampcomreleases/index.html</link>
-            <guid isPermaLink="false">ed4f068e-a949-4601-b8b9-47da3f9a40f0</guid>
-            <pubDate>Thu, 09 Jun 2016 20:27:24 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ad2f884-430b-4f9e-b359-48047d73c44a.png">]]></description>
-            <link>https://thegrid.ai/transcendence-records/tr001/index.html</link>
-            <guid isPermaLink="false">01366f86-c7d2-49ae-bae9-9e23f5dde536</guid>
-            <pubDate>Thu, 09 Jun 2016 20:27:22 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3e9120d3-7b2a-4b92-8bca-dae8382c1cc7.jpg">]]></description>
             <link>https://thegrid.ai/transcendence-records/kramavich-kramanic-frequencies-ep/index.html</link>
             <guid isPermaLink="false">0798306f-4986-4762-bcfb-64d13d4a315c</guid>
             <pubDate>Thu, 09 Jun 2016 20:27:12 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[https://transcendencerecords.bandcamp.com/releases]]></title>
+            <description><![CDATA[<img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5d1c8b0a33183e383239a074a17174901de041a3.jpg">]]></description>
+            <link>https://thegrid.ai/transcendence-records/httpstranscendencerecordsbandcampcomreleases/index.html</link>
+            <guid isPermaLink="false">ed4f068e-a949-4601-b8b9-47da3f9a40f0</guid>
+            <pubDate>Thu, 09 Jun 2016 20:27:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ad2f884-430b-4f9e-b359-48047d73c44a.png">]]></description>
+            <link>https://thegrid.ai/transcendence-records/tr001/index.html</link>
+            <guid isPermaLink="false">01366f86-c7d2-49ae-bae9-9e23f5dde536</guid>
+            <pubDate>Thu, 09 Jun 2016 20:27:27 GMT</pubDate>
         </item>
     </channel>
 </rss>
