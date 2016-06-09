@@ -1,11 +1,11 @@
 ---
-datePublished: '2016-06-09T20:26:16.922Z'
+datePublished: '2016-06-09T20:26:17.923Z'
 author: []
-dateModified: '2016-06-09T20:26:16.330Z'
+dateModified: '2016-06-09T20:26:17.366Z'
 title: ''
 description: Debut EP release for Transcendence Records
 sourcePath: _posts/2016-06-08-httpstranscendencerecordsbandcampcomreleases.md
-starred: false
+starred: true
 inFeed: true
 hasPage: true
 inNav: false
